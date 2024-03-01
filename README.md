@@ -2,10 +2,10 @@
 The UI-Libs are usuable by anyone and can be used or taken by anyone for their own creativity or script!
 
 # Pros:
-UI-Libs make scripts look nice /////////
-UI-Libs make scripts user friendly /////////
-UI-Libs usually mark scripts to be used more /////////
-UI-Libs make it easy and fun to code /////////
+UI-Libs make scripts look nice  <br />
+UI-Libs make scripts user friendly  <br />
+UI-Libs usually mark scripts to be used more  <br />
+UI-Libs make it easy and fun to code  <br />
 # Cons:
 UI-Libs take up alot of coding lines /////////
 UI-Libs take up part of the screen (depending on size)
