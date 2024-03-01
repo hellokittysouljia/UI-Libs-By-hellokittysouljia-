@@ -1,15 +1,14 @@
 # These are UI-Libs made by myself
 The UI-Libs are usuable by anyone and can be used or taken by anyone for their own creativity or script!
 
-Pros = {
-  UI-Libs make scripts look nice;
-  UI-Libs make scripts user friendly;
-  UI-Libs usually mark scripts to be used more;
-  UI-Libs make it easy and fun to code;
-Cons = {
-  UI-Libs take up alot of coding lines;
-  UI-Libs take up part of the screen (depending on size);
-}
+# Pros:
+UI-Libs make scripts look nice;
+UI-Libs make scripts user friendly;
+UI-Libs usually mark scripts to be used more;
+UI-Libs make it easy and fun to code;
+# Cons:
+UI-Libs take up alot of coding lines;
+UI-Libs take up part of the screen (depending on size);
 
 My roblox is hellokittysouljia and my main github is Not-Kyle
 
